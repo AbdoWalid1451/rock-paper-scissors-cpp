@@ -24,7 +24,7 @@ Console-based Rock Paper Scissors game built using C++.
 
 - Console Application
 
--Functional Programming
+- Functional Programming
 
 ## Game Rules
 
